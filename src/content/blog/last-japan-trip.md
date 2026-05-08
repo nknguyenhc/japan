@@ -1,12 +1,12 @@
 ---
 title: 'Last Japan Trip'
-description: 'Some thoughts on my last Japan trip'
+description: 'Here are some thoughts on my last Japan trip'
 startDate: 'Dec 23, 2024'
 endDate: 'Jan 02, 2025'
 heroImage: '../../assets/last-japan-trip/osaka-1.jpg'
 ---
 
-Here is some thoughts on my last Japan trip
+Here are some thoughts on my last Japan trip
 
 My friends and I went to Japan in Dec 2024. There were 6 of us. It was quite a hype experience travelling with friends: we got to do lots of fun things together in Japan, being sight-seeing, playing games, etc.
 
@@ -26,7 +26,7 @@ We did not stay in Kyoto long enough! We effectively had one day in Kyoto, makin
 
 ![Kyoto imperial palace](../../assets/last-japan-trip/kyoto-1.jpg)
 
-We visited Kyoto imperial palace, but it was at the end of the year that they closed down! So we went around the outside of the palace.
+We visited the Kyoto imperial palace, but it was at the end of the year that they closed down! So we went around the outside of the palace.
 
 ![Fushimi Inari](../../assets/last-japan-trip/kyoto-2.jpg)
 
