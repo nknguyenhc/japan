@@ -8,7 +8,7 @@ heroImage: '../../assets/last-japan-trip/osaka-1.jpg'
 
 Here are some thoughts on my last Japan trip
 
-My friends and I went to Japan in Dec 2024. There were 6 of us. It was auite a hype experience travelling with friends: we got to do lots of fun things together in Japan, being sight-seeing, playing games, etc.
+My friends and I went to Japan in Dec 2024. There were 6 of us. It was quite a hype experience travelling with friends: we got to do lots of fun things together in Japan, being sight-seeing, playing games, etc.
 
 # Osaka
 
