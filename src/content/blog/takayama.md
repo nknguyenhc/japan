@@ -3,7 +3,7 @@ title: 'Takayama'
 description: 'Trip notes from Takayama: shrines, ramen, old town, and markets'
 startDate: 'May 21, 2026'
 endDate: 'May 23, 2026'
-heroImage: '../../assets/takayama/takayama-1.jpg'
+heroImage: '../../assets/takayama/takayama-hero.jpg'
 ---
 The town that shuts down at 6pm … Most restaurants close before 6pm, there is literally nothing to do after 6pm. The street at 8pm looks as dark as 12am.
 ![Takayama photo](../../assets/takayama/takayama-1.jpg)
