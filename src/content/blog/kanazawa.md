@@ -5,9 +5,9 @@ startDate: 'May 18, 2026'
 endDate: 'May 20, 2026'
 heroImage: '../../assets/kanazawa/kanazawa-1.jpg'
 ---
-# Pre-trip
+## Pre-trip
 Top-tier advice: purchase esim beforehand! A quick research shows that for comfortable use for 30 days, it costs around 10,000 yen (~80 SGD) to buy an esim at the airport. There is an esim on klook that costs 21 SGD, with 1GB per day usage. It works well! Stonks.
-# To Kanazawa
+## To Kanazawa
 I took the Skyliner train from Narita terminal 1 to Keisei-Ueno station. I did not know I must reserve seats, so there was a bit of a delay :(
 
 Nevertheless, the scenery on the Skyliner trainer is decent
@@ -19,7 +19,7 @@ It took about 50 mins to travel from Narita airport to the city center. From the
 ![Kanazawa photo](../../assets/kanazawa/kanazawa-4.jpg)
 
 The scenes along the shinkansen were quite picteresque, though it is unfortunately mostly blocked by the high fences along the rail.
-# Nagamachi Samurai district
+## Nagamachi Samurai district
 Step into the Edo period and before, where Samurai and the warriors are of the higher class of Japan. Here I got to visit some preserved residential houses of past Samurais. The houses exude a sense of tranquility and beauty, with some of the most serene gardens.
 ![Kanazawa photo](../../assets/kanazawa/kanazawa-5.jpg)
 
@@ -37,7 +37,7 @@ I ate Hanton rice, a dish only found in Kanazawa, at Grill Otsuka. The restauran
 ![Kanazawa photo](../../assets/kanazawa/kanazawa-8.jpg)
 
 In all honesty I find this dish to be average. Ketchup just never works with egg and rice for me, the taste is odd. The protein is deep fried shrimp, which works better in regular Japanese curry rice.
-# Kanazawa castle
+## Kanazawa castle
 On day 2, I went to Kanazawa castle at around 7.30 - 10. I would definitely recommend visiting it in the morning: the morning breeze was cool, and there were not a lot of people.
 ![Kanazawa photo](../../assets/kanazawa/kanazawa-9.jpg)
 
@@ -48,7 +48,7 @@ Tiger paintings were particularly popular in this palace, because it shows the g
 ![Kanazawa photo](../../assets/kanazawa/kanazawa-11.jpg)
 
 There was a theater where you can see a brief history of the palace. The gold leaf ice cream spot was an amazing place to sit and chill while observing the castle. They were closed on the day I visited, so I sat there without the gold leaf ice cream :)
-# Omicho market
+## Omicho market
 Next, I went to Omicho market, a seafood market. Don’t be fooled into thinking that you can only get fresh food, you can request them to cook for you on the spot! This is where I got lots of snacks and light bites.
 ![Kanazawa photo](../../assets/kanazawa/kanazawa-12.jpg)
 
@@ -56,7 +56,7 @@ The crab cream croquette is a must-get! It was well-seasoned, with crispy panko 
 ![Kanazawa photo](../../assets/kanazawa/kanazawa-13.jpg)
 
 For lunch I got seafood donburi. It was good, with a good mix of seafood.
-# Higashi district
+## Higashi district
 Another street with Edo vibe, but for Geiko. Here, there are various tea houses where you can catch a performance by the Geiko’s, though with a price (between 5000 yen to 25000 yen), and you must come on the right day. Some houses have performances only in a certain period, some houses have only on certain days.
 ![Kanazawa photo](../../assets/kanazawa/kanazawa-14.jpg)
 
@@ -70,7 +70,7 @@ A must-get here is gold-leaf ice cream. Kanazawa produces most of Japan’s gold
 I also managed to visit the Shima tea house. It is one the national protected properties. The house is a place where Geiko previously stayed and performed. Here, I got to enjoy matcha tea and Japanese sweets with a beautiful garden view.
 ![Kanazawa photo](../../assets/kanazawa/kanazawa-17.jpg)
 
-# Utatsuyama Park Hanashouben
+## Utatsuyama Park Hanashouben
 After Higashi district, it was still early in the afternoon, so I went up the hill to visit this park. I walked up a slope of 50m and 12 degrees inclination (measured with a clinometer 😁)
 ![Kanazawa photo](../../assets/kanazawa/kanazawa-18.jpg)
 ![Kanazawa photo](../../assets/kanazawa/kanazawa-19.jpg)
@@ -81,7 +81,7 @@ Other than this, there was an observatory with mid-ish view, so there wasn’t a
 ![Kanazawa photo](../../assets/kanazawa/kanazawa-20.jpg)
 
 Asano river on the way back.
-# Kenrokuen garden
+## Kenrokuen garden
 The next morning, I visited Kenrokuen garden, one of the three most beautiful gardens in Japan. The garden is absolutely beautiful, with a stunning central pond and artfully-crafted trees.
 ![Kanazawa photo](../../assets/kanazawa/kanazawa-21.jpg)
 
@@ -94,5 +94,5 @@ Here are some more picturesque photos from the garden.
 ![Kanazawa photo](../../assets/kanazawa/kanazawa-24.jpg)
 ![Kanazawa photo](../../assets/kanazawa/kanazawa-25.jpg)
 
-# Concluding words
+## Concluding words
 Kanazawa is a small city, with all attractions located around the Kanazawa castle, so if you are a big hiker, you can go everywhere on foot. In general, attractions are at a smaller scale, so expect yourself to fully explore one place with less time. My initial itinerary did not include Utatsuyama park, I added that because I finished Higashi district. Overall, there is a good mix of nature and history.
