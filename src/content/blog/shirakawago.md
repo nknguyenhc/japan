@@ -11,7 +11,7 @@ I took a bus from Kanazawa to Shirakawago. The view was amazing! There were two 
 
 ![Shirakawago photo](../../assets/shirakawago/shirakawago-3.jpg)
 
-The rice fields were spectacular! It was at the planting season, so I saw green patches across the entire area. There were brick-roofed houses in the middle of the farms, presumably owned by the farmers.
+The rice fields were spectacular! It was at the planting season, so I saw green patches across the entire area. There were brick-roofed houses in the mikdle of the farms, presumably owned by the farmers.
 
 The bus stopped briefly at the Gokayama, where the first part of the scenery ends. The second part of the mountainous views is decent. Though I have seen better sceneries in Viet Nam :) oops.
 ![Shirakawago photo](../../assets/shirakawago/shirakawago-4.jpg)
@@ -90,4 +90,4 @@ I got ice cream after lunch. This is premium milk-rich ice cream, the flavour is
 
 I decided to take a break at a coffee shop on the street. Unlike other coffee shops, this one is in a garage. While the sitting space is rather unconventional, I had a clear view of the bustling street.
 ## Concluding words
-This place is definitely worth a visit. The rural experience is great, especially if you can stay overnight one day, as there are much fewer people at night and in the early morning; there are more visitors during the day. The food is very good, making the visit all that I wanted to be worth the time.
+This place is definitely worth a visit. The rural experience is great, especially if you can stay overnight one day, as there are much fewer people at night and in the early morning; there are more visitors during the day. The food is very good, making the visit all the more worth the time.
