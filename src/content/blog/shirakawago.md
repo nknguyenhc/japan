@@ -11,7 +11,7 @@ I took a bus from Kanazawa to Shirakawago. The view was amazing! There were two 
 
 ![Shirakawago photo](../../assets/shirakawago/shirakawago-3.jpg)
 
-The rice fields were spectacular! It was at the planting season, so I saw green patches across the entire area. There were brick-roofed houses in the mikdle of the farms, presumably owned by the farmers.
+The rice fields were spectacular! It was at the planting season, so I saw green patches across the entire area. There were brick-roofed houses in the middle of the farms, presumably owned by the farmers.
 
 The bus stopped briefly at the Gokayama, where the first part of the scenery ends. The second part of the mountainous views is decent. Though I have seen better sceneries in Viet Nam :) oops.
 ![Shirakawago photo](../../assets/shirakawago/shirakawago-4.jpg)
