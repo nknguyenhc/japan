@@ -3,7 +3,7 @@ title: 'Okayama'
 description: 'Half-day in Okayama: travel day, city vibes, oyster okonomiyaki, and fruit parfaits'
 startDate: 'May 27, 2026'
 endDate: 'May 27, 2026'
-heroImage: '../../assets/okayama/okayama-1.jpg'
+heroImage: '../../assets/okayama/okayama-hero.jpg'
 ---
 ## To Okayama
 I took the Hashidate train to Kyoto, then transferred to Thunderbird, then transferred to the Sanyo shinkansen to Okayama. Initially I thought it had the fewest transfers, but it turns out the shinkansen from Kyoto to Shin-Osaka isn’t covered by the Kansai Hiroshima pass, so I had to take the Thunderbird train first.
@@ -32,6 +32,10 @@ The view right at my place of stay. Not sure if I am staying in a lowkey red lig
 ![Okayama photo](../../assets/okayama/okayama-6.jpg)
 
 The city canal looks beautiful. This time my camera does extra justice to the canal; at the time I visited it was quite dark so it did not look as nice.
+
+![Okayama photo](../../assets/okayama/okayama-vietnam-town.jpg)
+
+Apparently there is a mini Vietnam town here, with a whole block of Vietnamese restaurants and shops, interesting, why are there so many Vietnamese in Okayama?
 
 ## Food
 ### Oyster Okonomiyaki
