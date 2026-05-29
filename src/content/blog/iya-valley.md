@@ -55,7 +55,7 @@ Is this a snake sticker or a real snake that got trampled over? Looks scary …
 After lunch, I checked out the forest adventure land, one of the attractions here. Sadly, they are close, probably for this whole season. So I set out to get down to the river instead.
 ![Iya Valley photo](../../assets/iya-valley/iya-valley-11.jpg)
 
-The road down was rather wet and slippery, so this was the closest to the river bed. Beautiful scene with the red bridge across the river.
+The road down was rather wet and slippery, so this was the closest to the river bed that I could get. Beautiful scene with the red bridge across the river.
 ![Iya Valley photo](../../assets/iya-valley/iya-valley-12.jpg)
 
 A photo of where I landed at.
@@ -173,12 +173,12 @@ Ended up reaching the bottom at 1.30pm. It really took 2hr to descend.
 
 Beautiful view of the Iya river on the way out.
 ### Tips
-Wear long pants and covered shoes, to make sure that fallen branches do not cut your legs, and avoid venomous snakes. I did not see any snakes though.
-Bring a jacket. At the bottom you would probably not need it, but near the top, the wind blows really strong.
-Bring some snacks. You would turn hungry on the way up.
-Bring lots of water. I only brought one bottle, which was not enough.
-Bring hiking sticks. I did not, which I regretted so much.
-Make sure you see ribbons (yellow, pink, blue) or sticks on the ground and follow them. That is the easiest path to walk.
+- Wear long pants and covered shoes, to make sure that fallen branches do not cut your legs, and avoid venomous snakes. I did not see any snakes though.
+- Bring a jacket. At the bottom you would probably not need it, but near the top, the wind blows really strong.
+- Bring some snacks. You would turn hungry on the way up.
+- Bring lots of water. I only brought one bottle, which was not enough.
+- Bring hiking sticks. I did not, which I regretted so much.
+- Make sure you see ribbons (yellow, pink, blue) or sticks on the ground and follow them. That is the easiest path to walk.
 ## Nagoro scarecrow village
 The bus from Nagoro departed at 3.20pm, so I had a bit of time exploring the scarecrow village. On my sore feet.
 ![Iya Valley photo](../../assets/iya-valley/iya-valley-42.jpg)
