@@ -11,7 +11,7 @@ From Okayama, I took the Dosan Limited Express train (or rather, Nampu train?) t
 
 The last 3 pictures are taken at Oboke Gorge.
 
-From Oboke station, I took the local bus to Kazurabashi bus terminal (Yumetai). Iya valley lies along a mountain side, with roads built only with one lane shared for both directions. The drive reminds me of the trips through the mountainous villages in Vietnam.
+From Oboke station, I took the local bus to Kazurabashi bus terminal (Yumebutai). Iya valley lies along a mountain side, with roads built only with one lane shared for both directions. The drive reminds me of the trips through the mountainous villages in Vietnam.
 ![Iya Valley photo](../../assets/iya-valley/iya-valley-2.jpg)
 
 ## Guesthouse
