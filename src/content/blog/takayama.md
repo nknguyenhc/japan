@@ -114,12 +114,12 @@ Or rather, morning food tour. This market has a multitude of snacks that easily 
 ![Takayama photo](../../assets/takayama/takayama-30.jpg)
 
 The food here is so amazing! In order of the pictures,
-Pudding: the pudding here is advertised to be different from other regions. Personally I think the texture is quite similar to pudding elsewhere, but with a slightly crusty top and a slightly richer taste.
-Beef and mashed potato croquette: hot and tasty! The potato taste can be a bit more dominant than the beef taste, though the beef fragrance is still quite strong.
-Mini Taiyaki: found in other regions of Japan too, and is easily one of my favourite Japanese snacks!
-Beef skewer: grilled right in front of your eyes. The beef is tender, juicy, and seasoned on-point!
-Watabi mochi: this version is softer than regular mochi, has no filling, and is covered in flavoured powder. I probably prefer this mochi over regular mochi.
-Orawa Tamaten: unique to this region, this snack has a crusty skin and a soft texture, with a slight slant of sweetness, making it a very delightful treat.
+- **Pudding**: the pudding here is advertised to be different from other regions. Personally I think the texture is quite similar to pudding elsewhere, but with a slightly crusty top and a slightly richer taste.
+- **Beef and mashed potato croquette**: hot and tasty! The potato taste can be a bit more dominant than the beef taste, though the beef fragrance is still quite strong.
+- **Mini Taiyaki**: found in other regions of Japan too, and is easily one of my favourite Japanese snacks!
+- **Beef skewer**: grilled right in front of your eyes. The beef is tender, juicy, and seasoned on-point!
+- **Watabi mochi**: this version is softer than regular mochi, has no filling, and is covered in flavoured powder. I probably prefer this mochi over regular mochi.
+- **Orawa Tamaten**: unique to this region, this snack has a crusty skin and a soft texture, with a slight slant of sweetness, making it a very delightful treat.
 ## Okonomiyaki
 I had Okonomiyaki with beef for lunch. What I did not expect was, I got to cook my own cake! What an amazing experience to have.
 ![Takayama photo](../../assets/takayama/takayama-31.jpg)
