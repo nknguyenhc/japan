@@ -166,10 +166,11 @@ The temple has a lot of worship activities like picking charms, reading signs, e
 ![Hiroshima photo](../../assets/hiroshima/hiroshima-40.jpg)
 
 In order of the photos:
-Coffee ice cream, the one that the deer coveted after above.
-Momiji manju: a soft sponge biscuit with custard filling. The outer layer is really soft, and the treat is really tasty.
-Cheese grilled oyster: a delicacy here. Very fresh and well-seasoned.
-Fish cake with asparagus filling and wrapped in bacon. Decent, nothing special, not too bad.
+- Coffee ice cream, the one that the deer coveted after above.
+- Momiji manju: a soft sponge biscuit with custard filling. The outer layer is really soft, and the treat is really tasty.
+- Cheese grilled oyster: a delicacy here. Very fresh and well-seasoned.
+- Fish cake with asparagus filling and wrapped in bacon. Decent, nothing special, not too bad.
+
 I ate so much that I was still full by lunch. I planned to eat conger eel rice, but my small stomach did not allow.
 ### Mt Misen
 You can take the ropeway up and down, or you can hike too. To save time, I decided to take the ropeway.
