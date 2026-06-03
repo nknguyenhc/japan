@@ -42,6 +42,9 @@ A fishing village with boats docked at the bay!
 When I came back, the counter aunty was very concerned abt me catching a cold :) Very nice people, so I had to use Google translate to get what they were trying to say. I myself actually was worried I would catch a cold also. She was also asking about my recording and thought I was a Youtuber, LOL.
 
 Overall, the view is nice, the uphill cycling can be a bit of an extreme cardio workout. It would have been much more enjoyable if it did not rain :(
+![Nagato photo](../../assets/nagato/nagato-8.jpg)
+
+Treating myself to a pudding ice cream nearby! The cafe actually has very nice outdoor seats outlooking to the sea, but unfortunately it was raining.
 
 ## Yakitori
 I had yakitori near Nagatoshi station for dinner.
