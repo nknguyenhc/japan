@@ -1,8 +1,8 @@
 ---
 title: 'Nagato'
 description: 'Nagato has two beautiful places to see: Omi island and Motonosumi shrine.'
-startDate: 'May 02, 2026'
-endDate: 'May 03, 2026'
+startDate: 'June 02, 2026'
+endDate: 'June 03, 2026'
 heroImage: '../../assets/nagato/nagato-hero.jpg'
 ---
 ## To Nagato
