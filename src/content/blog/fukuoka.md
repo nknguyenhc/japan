@@ -212,7 +212,7 @@ It is a coastal district with a beautiful shoreline to cycle through, with sceni
 Egg desserts right from the farm! The top one is egg pudding, it is so rich and so soft, much better than regular pudding. Worth the slightly higher price. The bottom is a lemon parfait, the sourness of lemon is a bit overwhelming, but the bottom cake layers are so good.
 ![Fukuoka photo](../../assets/fukuoka/fukuoka-53.jpg)
 
-One more time on the bike. The coast is so beautiful.
+One more time on the bike. The coast is so beautiful. This time I rented an e-bike, and it is so good to ride on an e-bike! The uphills are so easy, and it can go relatively faster.
 ![Fukuoka photo](../../assets/fukuoka/fukuoka-54.jpg)
 ![Fukuoka photo](../../assets/fukuoka/fukuoka-55.jpg)
 
