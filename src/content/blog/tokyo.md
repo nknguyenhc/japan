@@ -101,11 +101,11 @@ There were lots of plane, tank, aircraft carrier models on display. The only exh
 ![Tokyo photo](../../assets/tokyo/tokyo-15.jpg)
 
 The rising sun flag on sales 🥴.
-## Tonkatsu lunch
+## Soba noodle lunch
 My Tokyo itinerary is weird, so the restaurants nearby only have Japanese. I managed to find a soba noodle shop that was really cheap, for a very filling lunch.
 ![Tokyo photo](../../assets/tokyo/tokyo-16.jpg)
 
-Oops, I thought it’s dry noodle. Ig I did not understand the menu thoroughly. Either way, the noodle is good! The tonkatsu is very well seasoned.
+Oops, I thought it’s dry noodle. Ig I did not understand the menu thoroughly. Either way, the noodle is good! The tempura is very well seasoned.
 
 I noticed some men around me ordered only soba with soup. Huh, they can survive with that? I am astonished, probably they were trying to save money.
 ## Earthquake science museum
