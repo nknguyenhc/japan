@@ -5,11 +5,7 @@ description: "A blog about my travel experiences in Japan."
 
 # 🙋‍♂️ I travelled to Japan!
 
-I was in Japan from 17 May 2026 to 11 June 2026. This website is my personal travel blog where I post experiences, photos, tips, maps, and small stories from days on the road — from crowded city mornings to quiet countryside evenings.
-
-## Where I'll be
-
-Tokyo → Kanazawa → Shirakawago → Takayama → Kyoto → Amanohashidate → Okayama → Iya Valley → Hiroshima → Nagato → Fukuoka → Kagoshima → Tokyo. Expect trains, temples, shrines, tea houses, lively markets, beaches, gardens, mountains, waterfalls, etc.
+I was in Japan from 17 May 2026 to 11 June 2026. This website is my personal travel blog where I post experiences, photos, tips, maps, and small stories from days on the road — from crowded city mornings to quiet countryside evenings. Expect trains, temples, shrines, tea houses, lively markets, beaches, gardens, mountains, waterfalls, etc.
 
 I’m not wibu though, nor do I consume any Japanese media, so don’t expect any anime or manga content.
 
