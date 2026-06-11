@@ -17,6 +17,7 @@ I’m not wibu though, nor do I consume any Japanese media, so don’t expect an
 
 - [Blogs](/blog)
 - [Full itinerary](/links/itinerary)
+- [Travel tips](/links/tips)
 
 ## Why this blog
 
