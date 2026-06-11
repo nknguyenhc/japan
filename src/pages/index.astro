@@ -2,87 +2,26 @@
 import BaseHead from "../components/BaseHead.astro";
 import Footer from "../components/Footer.astro";
 import Header from "../components/Header.astro";
-import { SITE_DESCRIPTION, SITE_TITLE } from "../consts";
+import { getEntry, render } from "astro:content";
+
+const homepage = await getEntry("pages", "index");
+
+if (!homepage) {
+  throw new Error("Missing homepage content");
+}
+
+const { Content } = await render(homepage);
 ---
 
 <!doctype html>
 <html lang="en">
   <head>
-    <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+    <BaseHead title={homepage.data.title} description={homepage.data.description} />
   </head>
   <body>
     <Header />
     <main>
-      <h1>🧑‍🚀 Hello — I'm traveling in Japan!</h1>
-
-      <p>
-        I'll be in Japan between 17 May 2026 and 11 June 2026. This website is
-        my personal travel blog where I'll post experiences, photos, tips, maps,
-        and small stories from days on the road — from crowded city mornings to
-        quiet countryside evenings.
-      </p>
-
-      <h2>Where I'll be</h2>
-      <p>
-        A rough route: Tokyo → Kanazawa → Shirakawago → Takayama → Kyoto →
-        Amanohashidate → Okayama → Iya Valley → Hiroshima → Nagato → Fukuoka →
-        Kagoshima → Tokyo. Expect trains, temples, shrines, tea houses, lively
-        markets, beaches, gardens, mountains, waterfalls, etc.
-      </p>
-      <p>
-        I’m not wibu though, nor do I consume any Japanese media, so don’t
-        expect any anime or manga content.
-      </p>
-
-      <h2>What I'll share</h2>
-      <ul>
-        <li>
-          Day-by-day notes: small wins, misadventures, and favorite meals.
-        </li>
-        <li>
-          Photography: street scenes, food close-ups, and landscapes at golden
-          hour.
-        </li>
-        <li>
-          Practical tips: rail passes, cash vs card, polite phrases, and packing
-          notes.
-        </li>
-        <li>
-          Local flavors: ramen, izakaya hopping, sweets, and regional
-          specialties.
-        </li>
-      </ul>
-
-      <h2>Quick travel tips</h2>
-      <ul>
-        <li>
-          Carry a charged battery pack — trains and wandering will drain your
-          phone.
-        </li>
-        <li>
-          Buy an IC card (Suica/Pasmo) for easy travel on most trains and buses.
-        </li>
-        <li>Learn a few polite phrases — a little Japanese goes a long way.</li>
-        <li>Book popular temples or experiences in advance when possible.</li>
-      </ul>
-
-      <h2>Why this blog</h2>
-      <p>
-        Travel feels better when shared. This space helps me remember the small
-        details (what I ate at 11pm after a long train ride) and gives friends
-        and family a spot to follow along. If something helpful comes up, I’ll
-        also add practical notes so others can reuse them.
-      </p>
-
-      <p>
-        If you want me to write about a specific place, food, or travel
-        question, tell me and I’ll try to include it in a post.
-      </p>
-
-      <p>
-        Thanks for stopping by — more stories and photos are coming soon. See
-        you on the next post! 🇯🇵
-      </p>
+      <Content />
     </main>
     <Footer />
   </body>

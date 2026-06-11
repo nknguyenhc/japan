@@ -84,7 +84,14 @@ input {
 	font-size: 16px;
 }
 table {
+	border-collapse: collapse;
 	width: 100%;
+}
+th,
+td {
+	border: 1px solid rgb(var(--gray-light));
+	padding: 0.5rem;
+	vertical-align: top;
 }
 img {
 	max-width: 100%;
