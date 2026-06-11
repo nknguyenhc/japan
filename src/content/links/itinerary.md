@@ -9,6 +9,8 @@ Also, this itinerary may omit some food places, because I cannot remember all th
 
 You may notice that this itinerary is somewhat packed. Yes, it is more suitable for solo travellers, or if your group travels very fast.
 
+![map](../../assets/map.png)
+
 | Date | Time | Activity | City/region |
 |---|---|---|---|
 | 18/05 | Morning | Arrive at Narita airport. Take Skyliner train to Ueno station, then Hokuriku shinkansen to Kanazawa. Skip lunch. | |
