@@ -134,7 +134,7 @@ Okubo, one of the 3 great nobles of the Meiji restoration. He was involved in th
 
 ![Kagoshima photo](../../assets/kagoshima/kagoshima-25.jpg)
 
-Saigo, one of the 3 great nobles in Meiji restoration. He was a childhood friend of Okubo and also led the Satsumo-Choshu alliance in the Boshin civil war. The friendship cracked when Saigo, an emotional man, demanded to send an envoy to Korea when it refused to recognise the new Meiji government, which would inevitably lead to war. Meanwhile, Okubo advised against it and wanted to focus on modernizing Japan instead. The emperor sided with Okubo, and Saigo returned to Kagoshima instead. Later on, he led the samurais in the Seinan civil war, where his faction was decisively crushed by Okubo. Such a romantic friendship yet with a tragic ending.
+Saigo, one of the 3 great nobles in Meiji restoration. He was a childhood friend of Okubo and also led the Satsumo-Choshu alliance in the Boshin civil war. The friendship cracked when Saigo, an emotional man, demanded to send an envoy to Korea when it refused to recognise the new Meiji government, which would inevitably lead to war. Meanwhile, Okubo advised against it and wanted to focus on modernizing Japan instead. The emperor sided with Okubo, and Saigo left his post and returned to Kagoshima. Later on, he led the samurais in the Seinan civil war, where his faction was decisively crushed by Okubo. Such a romantic friendship yet with a tragic ending.
 
 ![Kagoshima photo](../../assets/kagoshima/kagoshima-26.jpg)
 
