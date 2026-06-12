@@ -135,6 +135,10 @@ During the war, the government encouraged the soldiers to send letters to their 
 
 Life of commoners was hard: closer to 1940, the government started to run out of metals, forcing the people to voluntarily sacrifice their metalwares. People contributed their household appliances for the frontline, that is insane. When food supplies ran short, the government started to ration food, and food rations look pathetic: it first replaced mest with vegetables, and slowly the vegetables started to disappear also. I would have complained if just one meal does not have meat.
 
+Also during war, the curriculum was changed to nurture the future generation for war. Textbook cover headings were changed to "the rising sun". There was more intense military training that was also extended to the girls. Games organized in schools were changed from ordinary games to war games.
+
+At this juncture, I also got to hear the emperor's broadcast to the country on Aug 15, 1945, in which the declaration of unconditional surrender was read. The whole country was in shock, younger students understood the gravity of the situation through their teachers' facial expressions. We all probably are curious about these villains' voices, and Hitlet's voice was truly powerful, but Hirohito's voice was rather fractured and sounded more like a broken song.
+
 After the war, there were “war widows” and “war orphans”, pointing to the wives losing their husbands in the frontline and the children who evacuated to the countryside and lost their parents in the city air raids. Tragic :(
 
 Life started to improve, and in the 1950s, the symbol of wealth includes 3 electric appliances: washing machine, TV, and refridgerator.
