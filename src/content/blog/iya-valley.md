@@ -6,7 +6,7 @@ endDate: 'May 29, 2026'
 heroImage: '../../assets/iya-valley/iya-valley-hero.jpg'
 ---
 ## To Iya Valley
-From Okayama, I took the Dosan Limited Express train (or rather, Nampu train?) to Oboke station. The view of Shikoku island is amazing: villages lying against the backdrop of mountains covered in jungles.
+From Okayama, I took the Dosan Limited Express train (or rather, Nampu train?) to Oboke station. The view of Shikoku island is amazing: villages lying against the backdrop of forested mountains.
 ![Iya Valley photo](../../assets/iya-valley/iya-valley-1.jpg)
 
 The last 3 pictures are taken at Oboke Gorge.
@@ -52,7 +52,7 @@ One thing is: there are too many butterflies on the way. The butterflies fly aro
 
 Is this a snake sticker or a real snake that got trampled over? Looks scary …
 ### River close up look
-After lunch, I checked out the forest adventure land, one of the attractions here. Sadly, they are close, probably for this whole season. So I set out to get down to the river instead.
+After lunch, I checked out the forest adventure land, one of the attractions here. Sadly, they were close, probably for this whole season. So I set out to get down to the river instead.
 ![Iya Valley photo](../../assets/iya-valley/iya-valley-11.jpg)
 
 The road down was rather wet and slippery, so this was the closest to the river bed that I could get. Beautiful scene with the red bridge across the river.
@@ -203,7 +203,7 @@ Me chilling by the scarecrows while waiting for the bus. The scarecrows don’t 
 I transferred bus at Ochiai, and had to wait for 1hr. So I took the opportunity to explore the village.
 ![Iya Valley photo](../../assets/iya-valley/iya-valley-48.jpg)
 
-On one side is the village itself, the other was the observatory. Since I only had so much time, I chose the observatory for photos. The village looks really picturesque, just like the online photos.
+On one side it is the village itself, the other side was the observatory. Since I only had so much time, I chose the observatory for photos. The village looks really picturesque, just like the online photos.
 
 This photo was taken near the observatory though. I did not go all the way to the top, because of my sore feet :(
 ![Iya Valley photo](../../assets/iya-valley/iya-valley-49.jpg)
@@ -215,4 +215,4 @@ I visited the same restaurant, because I have not had meat for the entire day, a
 
 Yum!
 ## Concluding words
-Iya valley is fun, and has a lot to see. This is the destination that I probably took the most photos, and this is probably the longest post so far. Food is meh, if you travel here, make sure you research which restaurant is good. You probably can enjoy it more here with a car. It is still feasible to rely on public buses, they are very reliable, but I had to plan my itinerary around the bus timings. There are very few tourists here, so I got to enjoy the space. Overall, a good experience.
+Iya valley is fun, and has a lot to see. This is the destination that I probably took the most photos, and this is probably the longest post so far. Food is meh, if you travel here, make sure you research which restaurant is good. You probably can enjoy it here more with a car. It is still feasible to rely on public buses, they are very reliable, but I had to plan my itinerary around the bus timings. There are very few tourists here, so I got to enjoy the space. Overall, a good experience.

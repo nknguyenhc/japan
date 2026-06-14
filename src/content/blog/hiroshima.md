@@ -9,7 +9,7 @@ heroImage: '../../assets/hiroshima/hiroshima-hero.jpg'
 I took the first bus from Kazurabashi bus terminal to Oboke, then took the Nampu train (Dosan limited express) to Okayama. I then took shinkansen to Hiroshima.
 ![Hiroshima photo](../../assets/hiroshima/hiroshima-1.jpg)
 
-The food is great, all the components are tasty. Bento dishes in Singapore are nothing in comparison. It is surprisingly cheap at 1000 yen (oops an average meal in Japan is more expensive). This is the first time in my trip that I have the luxury of time to find bento lunch to be consumed on shinkansen.
+This is the first time in my trip that I have the luxury of time to find bento lunch to be consumed on shinkansen. The food is great, all the components are tasty. Bento dishes in Singapore are nothing in comparison. It is surprisingly cheap at 1000 yen (oops an average meal in Japan is more expensive).
 ## Hondori shopping street
 ![Hiroshima photo](../../assets/hiroshima/hiroshima-2.jpg)
 
@@ -24,10 +24,10 @@ The street was rather functional. Unlike Teramachi in Kyoto, which sold lots of 
 Found several gift shops that sell very cute cat statues.
 ![Hiroshima photo](../../assets/hiroshima/hiroshima-5.jpg)
 
-This city has street cars running along the roads. I got to ride the street cars, and they are very crowded.
+This city has street cars running along the roads. I got to ride the street cars, and they are very crowded. Not romantic :(
 ![Hiroshima photo](../../assets/hiroshima/hiroshima-6.jpg)
 
-Found the monument marking the hypo-center of the atomic bomb at the end of the street.
+Found the monument marking the hypo-center of the atomic bomb at the end of the street. The actual hypo-center is 600 meters vertically above this point.
 ![Hiroshima photo](../../assets/hiroshima/hiroshima-7.jpg)
 
 Revisited here at night for a tasty treat of ice cream with red beans!
@@ -38,7 +38,7 @@ Spot a few buskers at night too.
 
 This school was near the hypo-center, and some of the students were re-located to the countryside due to fear of American bombings. Some remained here.
 
-The west building was ferro-concrete and survived the atomic bomb. Soon after the blast, it was turned into a medical emergency center, treating atomic bomb survivors. Currently, it is a functional elementary school.
+The west building was ferro-concrete and survived the atomic bomb. Soon after the blast, it was turned into a medical emergency center, treating atomic bomb survivors. Currently, this is a functional elementary school.
 ![Hiroshima photo](../../assets/hiroshima/hiroshima-9.jpg)
 
 In the aftermath of the blast, many went to this school writing messages to search for their loved ones. Through collaborated efforts to recover the messages, the board is fully recovered and a life-size photocopy is pasted here.
@@ -51,7 +51,7 @@ Peace summits are held, and crane artworks are made in memorial of the atomic bo
 ## Orizuru tower
 ![Hiroshima photo](../../assets/hiroshima/hiroshima-12.jpg)
 
-It is the tallest building in Hiroshima. From here, you can see the view of the city from the top floor (floor 13). Note that the entrance fee can be a bit pricy.
+It is the tallest building in Hiroshima. From here, you can see the view of the city from the top floor (floor 13), with the atomic bomb dome in sight. Note that the entrance fee can be a bit pricy.
 ![Hiroshima photo](../../assets/hiroshima/hiroshima-13.jpg)
 
 The 12th floor is open for activities dedicated to peace messages, in particular, crane making.
@@ -89,10 +89,10 @@ The display includes items, fragments, testimonies, etc from the moment of explo
 The steps at the bank that a man was sitting at when he evaporated the moment the bomb exploded, leaving a shadow on the steps.
 ![Hiroshima photo](../../assets/hiroshima/hiroshima-22.jpg)
 
-A German priest that miraculously survived despite being very near to the hypocenter. He then helped with the post-bombing relief efforts.
+A German Catholic priest that miraculously survived despite being very near to the hypocenter. He then helped with the post-bombing relief efforts.
 ![Hiroshima photo](../../assets/hiroshima/hiroshima-23.jpg)
 
-The museum has a dedicated section explaining how the atomic bomb was developed, the catastrophic powers of the bomb, and Japan’s effort in promoting the elimination of atomic weapons. They even have interactive maps showing the development of the scene of atomic weapons worldwide.
+The museum has a dedicated section explaining how the atomic bomb was developed, the catastrophic powers of the bomb, and Japan’s effort in promoting the elimination of atomic weapons. They even have interactive maps showing the development of the atomic weapon landscape worldwide.
 ![Hiroshima photo](../../assets/hiroshima/hiroshima-24.jpg)
 
 They also have a dedicated section for the foreign students that were affected by the bomb, dead or survived. These students were invited by Japan from the occupied region to nurture a future generation of leaders obedient to Japan’s rule. Interestingly, there were no students from Indochina.
@@ -146,7 +146,7 @@ It is okay, decent. But since I already had better ramen for lunch, this pales i
 I took a day trip to Miyajima island the next day. The island could be reached by taking the JR Sanyo line to Miyajimaguchi, then ferry to Miyajima.
 ![Hiroshima photo](../../assets/hiroshima/hiroshima-36.jpg)
 
-There are lots of deer roaming around the island. Unlike the deer at Nara that would ram into you for the crackers, the deer here are much more gentle. They would sneakily steal your food if you do not guard your food properly.
+There are lots of deer roaming around the island. Unlike the deer at Nara that would ram into you for the crackers, the deer here are much more gentle. They would sneakily steal your food if you do not guard it properly.
 ![Hiroshima photo](../../assets/hiroshima/hiroshima-37.jpg)
 
 A deer coveting after my coffee ice cream. They keep no face in asking for food. Unlike Nara, here they do not sell crackers for deer, and you are not allowed to feed the deer.
@@ -199,4 +199,4 @@ I went to a restaurant with actual Hiroshima tsukemen this time.
 
 It is rated decent on Google maps, and rated high on Tabelog. But, I actually prefer normal tsukemen :) the sauce here isn’t special, I would prefer the thicker soup of normal tsukemen. The meat provided in normal tsukemen is also better.
 ## Concluding words
-If you ask me what are the memorable things in Hiroshima, I would say, only the peace museum (and its surrounding scenes) and Miyajima. The rest of the experiences are just … acceptable. But those two alone already make the city so much worth a visit. Hiroshima is definitely a city with lots of history, even before the atomic bomb was dropped, and Miyajima is just such a nice and chill island to visit, with going up Mt Misen being a must. Foodwise, I don’t like Hiroshima versions. Maybe that’s just me, or maybe I should trust AI less :) Either way, great experience at Hiroshima.
+If you ask me what are the memorable things in Hiroshima, I would say, only the peace museum (and its surrounding park) and Miyajima. The rest of the experiences are just … acceptable. But those two alone already make the city so much worth a visit. Hiroshima is definitely a city with lots of history, even before the atomic bomb was dropped, and Miyajima is just such a nice and chill island to visit, with going up Mt Misen being a must. Foodwise, I don’t like Hiroshima versions. Maybe that’s just me, or maybe I should trust AI less :) Either way, great experience at Hiroshima.

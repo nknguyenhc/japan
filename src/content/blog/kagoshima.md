@@ -22,7 +22,7 @@ The museum features displays from ancient times of Kagoshima up to the present d
 
 Western power came to Japan introducing two things: Christianity and firearms. And with the firepower of the West shown in the Anglo-Satsuma war, the country is motivated to set on the path of modernization.
 
-Kagoshima was in fact significant, as it (Satsuma) with Choshu prefectures rose up against the shogun to return power to the emperor. Moreover, Kagoshima has developed schools and firearms early, paving the way for Meiji restoration.
+Kagoshima was in fact significant, as it (Satsuma prefecture) with Choshu prefecture rose up against the shogun to return power to the emperor. Moreover, Kagoshima had developed schools and firearms early, paving the way for Meiji restoration.
 
 ![Kagoshima photo](../../assets/kagoshima/kagoshima-3.jpg)
 
@@ -44,7 +44,7 @@ The arts on display.
 
 The first models of the cannons with firearms, used during the Boshin civil war (bloodless rebellion).
 
-The museum is actually quite extensive, with 3 levels: first level displays history, second level displays folklore and profiles of key Meiji restoration contributors, and third level displays arts and engineering. A plus point is on the day I went, there were very few people. English subtitles are also limited to only section descriptions, so get your Google translate ready if you wish to read more. A minus point is there are some parts with photos prohibited (with an indicating sign), but after a while I started to be confused which one I can and which one I cannot take pictures of.
+The museum is actually quite extensive, with 3 levels: first level displays history, second level displays folklore and profiles of key Meiji restoration contributors, and third level displays arts and engineering. A plus point is on the day I went, there were very few people. English subtitles are also limited to only section descriptions, so get your Google translate ready if you wish to read more. A minus point is there are some parts with photos prohibited (with an indicating sign) mixed on the same shelf as parts that allow photos, so after a while I started to be confused which one I can and which one I cannot take pictures of.
 ## Steak lunch
 ![Kagoshima photo](../../assets/kagoshima/kagoshima-8.jpg)
 
@@ -58,7 +58,7 @@ Bought some good and cheap snacks here! The top one is karukan, a rice cake with
 
 ![Kagoshima photo](../../assets/kagoshima/kagoshima-10.jpg)
 
-And came back here for another karukan treat! This time it is custard filling. Very good! The outer layer has a closer soft and cake-like texture, closer to manju than karukan.
+And came back here for another karukan treat! This time it is custard filling. Very good! The outer layer has a softer and more cake-like texture, closer to manju than karukan.
 
 ![Kagoshima photo](../../assets/kagoshima/kagoshima-11.jpg)
 
@@ -100,7 +100,7 @@ Beautiful view of the volcano, my destination.
 
 The ferry is quite huge, with even a noodle shop in the middle.
 
-Upon arriving on the island, there was a bike shop right opposite the ferry terminal with a very reasonable price, 400 yen per hour. Still more expensive than that in Nagato, but that is stonks, much more affordable than the one at the visitor center (3300 yen for 4 hours iirc). I was so tempted to rent one, but nvm today I did not plan to cycle, I only have half a day here. Also turns out there was rain shortly after :( Weather forecast was wrong.
+Upon arriving on the island, there was a bike shop right opposite the ferry terminal with a very reasonable price, 400 yen per hour. Still more expensive than that in Nagato, but that is stonks, much more affordable than the one at the visitor center (3300 yen for 4 hours iirc). I was so tempted to rent one, but nvm today I did not plan to cycle, I only had half a day here. Also turns out it rained shortly after :( Weather forecast was wrong.
 
 There was a short walkway southwards towards some observation point. The path was filled with ash from the ashfall yesterday.
 
@@ -130,7 +130,7 @@ The museum features very rich displays of Meiji restoration, and in particular, 
 
 ![Kagoshima photo](../../assets/kagoshima/kagoshima-24.jpg)
 
-Okubo, one of the 3 great nobles of the Meiji restoration. He was involved in the Satsumo-Choshu alliance and led it in the Boshin civil war that led to the transfer of power from the shogun to the emperor. Though being a samurai, he himself catalysed the modernization of Japan that corollarily restricted the privileges of the samurai class.
+Okubo, one of the 3 great nobles of the Meiji restoration. He was involved in the Satsumo-Choshu alliance and led it in the Boshin civil war that resulted in the transfer of power from the shogun to the emperor. Though being a samurai, he himself catalysed the modernization of Japan that corollarily restricted the privileges of the samurai class.
 
 ![Kagoshima photo](../../assets/kagoshima/kagoshima-25.jpg)
 
@@ -140,7 +140,7 @@ Saigo, one of the 3 great nobles in Meiji restoration. He was a childhood friend
 
 Model of the first Western-style warship built in Japan. It flies the flag of Japan, which went through a process of design in the early days of Meiji restoration. Besides this model lies an exhibition of the first national anthem of Japan, the music of which was composed by a British.
 
-The museum also has two shows, both of which have English audio guides. I started to understand most of the history contexts from these shows. The first show is about the students sent overseas by the Satsumo clan. They set sail despite the national travel ban by the shogunate government. Their journey involves their excitement and awe across the wealthy lands of Hong Kong and Singapore, the British colonies of India and Yemen, the technological advancements manifest in the locomotive trains in Egypt, and their final destination of Britain. The second show is about the progression of the Meiji restoration, from the Satsumo-Choshu alliance to the end of the Satsumo rebellion (Seinan civil war).
+The museum also has two shows, both of which have English audio guides. I started to understand most of the history contexts from these shows. The first show is about the students sent overseas by the Satsumo clan. They set sail despite the national travel ban by the shogunate government. Their journey involves excitement and awe across the wealthy lands of Hong Kong and Singapore, the British colonies of India and Yemen, the technological advancements manifest in the locomotive trains in Egypt, and their final destination of Britain. The second show is about the progression of the Meiji restoration, from the Satsumo-Choshu alliance to the end of the Satsumo rebellion (Seinan civil war).
 
 ![Kagoshima photo](../../assets/kagoshima/kagoshima-27.jpg)
 

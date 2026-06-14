@@ -44,7 +44,7 @@ The next morning, I set out to see the village. The rain added a layer of mystic
 
 ![Shirakawago photo](../../assets/shirakawago/shirakawago-12.jpg)
 
-I walked around from 8.30 to around 9, then started going to the attractions to see the houses.
+I walked around from 8.30 to around 9, then started visiting the houses.
 ## Houses
 ### Nagase house
 ![Shirakawago photo](../../assets/shirakawago/shirakawago-13.jpg)
@@ -55,7 +55,7 @@ One of the houses open to visitors. Here you can see the inside of a house and d
 They have an altar with Buddha in the center and photos of people that have passed away. Typical Asian household altar.
 ![Shirakawago photo](../../assets/shirakawago/shirakawago-15.jpg)
 
-The attic looks crazy: they are raising silkworms with complicated looking machinery.
+The attic looks crazy: they are raising silkworms with complicated-looking machineries.
 ![Shirakawago photo](../../assets/shirakawago/shirakawago-16.jpg)
 ![Shirakawago photo](../../assets/shirakawago/shirakawago-17.jpg)
 
@@ -90,4 +90,4 @@ I got ice cream after lunch. This is premium milk-rich ice cream, the flavour is
 
 I decided to take a break at a coffee shop on the street. Unlike other coffee shops, this one is in a garage. While the sitting space is rather unconventional, I had a clear view of the bustling street.
 ## Concluding words
-This place is definitely worth a visit. The rural experience is great, especially if you can stay overnight one day, as there are much fewer people at night and in the early morning; there are more visitors during the day. The food is very good, making the visit all the more worth the time.
+This place is definitely worth a visit. The rural experience is great, especially if you can stay overnight one day, as there are much fewer people at night and in the early morning; there are more visitors during the day since most people travel to Shirakawago for a day trip from Kanazawa or Takayama. The food is very good, making the visit all the more worth the time.

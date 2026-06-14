@@ -10,7 +10,7 @@ Top-tier advice: purchase esim beforehand! A quick research shows that for comfo
 ## To Kanazawa
 I took the Skyliner train from Narita terminal 1 to Keisei-Ueno station. I did not know I must reserve seats, so there was a bit of a delay :(
 
-Nevertheless, the scenery on the Skyliner trainer is decent
+Nevertheless, the scenery on the Skyliner trainer is decent.
 ![Kanazawa photo](../../assets/kanazawa/kanazawa-2.jpg)
 
 It took about 50 mins to travel from Narita airport to the city center. From there, I took the Hokuriku shinkansen to Kanazawa.
@@ -20,13 +20,13 @@ It took about 50 mins to travel from Narita airport to the city center. From the
 
 The scenes along the shinkansen were quite picteresque, though it is unfortunately mostly blocked by the high fences along the rail.
 ## Nagamachi Samurai district
-Step into the Edo period and before, where Samurai and the warriors are of the higher class of Japan. Here I got to visit some preserved residential houses of past Samurais. The houses exude a sense of tranquility and beauty, with some of the most serene gardens.
+Step into the Edo period and before, where the Samurai warriors are of the higher class of Japan. Here I got to visit some preserved residential houses of past Samurais. The houses exude a sense of tranquility and beauty, with some of the most serene gardens.
 ![Kanazawa photo](../../assets/kanazawa/kanazawa-5.jpg)
 
 And here is a beautiful house where it was previously a horse stable. In the past, only rich families with lots of land could own horses.
 ![Kanazawa photo](../../assets/kanazawa/kanazawa-6.jpg)
 
-The horses are usually used for transport. Moreover, there are very strict protocols for the servants to take of the horses and to prepare the horses for his masters to ride.
+The horses are usually used for transport. Moreover, there are very strict protocols for the servants to take care of the horses and to prepare the horses for his masters to ride.
 
 The district itself is cobblestoned, with various houses along the side selling pottery artworks. The street puts you back right into the Japanese feudal period.
 ![Kanazawa photo](../../assets/kanazawa/kanazawa-7.jpg)
@@ -57,17 +57,17 @@ The crab cream croquette is a must-get! It was well-seasoned, with crispy panko 
 
 For lunch I got seafood donburi. It was good, with a good mix of seafood.
 ## Higashi district
-Another street with Edo vibe, but for Geiko. Here, there are various tea houses where you can catch a performance by the Geiko’s, though with a price (between 5000 yen to 25000 yen), and you must come on the right day. Some houses have performances only in a certain period, some houses have only on certain days.
+Another street with Edo vibe, but for Geiko. Here, there are various tea houses where you can catch a performance by the Geiko’s, though with a price (between 5000 yen to 25000 yen), and you must come on the right day. Some houses have performances only in certain periods, some houses have only on certain days.
 ![Kanazawa photo](../../assets/kanazawa/kanazawa-14.jpg)
 
 ![Kanazawa photo](../../assets/kanazawa/kanazawa-15.jpg)
 
 Interestingly, when I was here, I saw lots of local students also visiting this district.
 
-A must-get here is gold-leaf ice cream. Kanazawa produces most of Japan’s gold leaf, and so gold leaf also comes onto ice cream. The ice cream is nice, though the gold leaf adds nothing to the texture or the taste. It is rather for aesthetic purposes only.
+A must-get here is gold-leaf ice cream. Kanazawa produces most of Japan’s gold leaves, and so gold leaves also find their way onto ice cream. The ice cream is nice, though the gold leaf adds nothing to the texture or the taste. It is rather for aesthetic purposes only.
 ![Kanazawa photo](../../assets/kanazawa/kanazawa-16.jpg)
 
-I also managed to visit the Shima tea house. It is one the national protected properties. The house is a place where Geiko previously stayed and performed. Here, I got to enjoy matcha tea and Japanese sweets with a beautiful garden view.
+I also managed to visit the Shima tea house. It is one of the national protected properties. The house is a place where Geiko previously stayed and performed. Here, I got to enjoy matcha tea and Japanese sweets with a beautiful garden view.
 ![Kanazawa photo](../../assets/kanazawa/kanazawa-17.jpg)
 
 ## Utatsuyama Park Hanashouben

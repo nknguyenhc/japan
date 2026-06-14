@@ -12,7 +12,7 @@ The most expensive piece of paper. From here on, I can book all the shinkansens 
 ![Amanohashidate photo](../../assets/amanohashidate/amanohashidate-3.jpg)
 ![Amanohashidate photo](../../assets/amanohashidate/amanohashidate-4.jpg)
 
-The view is intertwined between rivers, jungles, and small villages. It is spectacular! Comparable to the view on Hida train.
+The view on the Hashidate train is intertwined between rivers, jungles, and small villages. It is spectacular! Comparable to the view on Hida train.
 ## Local soy sauce ramen
 ![Amanohashidate photo](../../assets/amanohashidate/amanohashidate-5.jpg)
 
@@ -22,7 +22,7 @@ The first dish I tried. It has good soy sauce seasoning with a generous portion 
 This is one of the experiences I have been looking forward to.
 ![Amanohashidate photo](../../assets/amanohashidate/amanohashidate-6.jpg)
 
-Even though there are no seatbelt, it is actually quite safe: there are hand rests on the two sides, and the furthest you are away from the ground is around 5 meters.
+Even though there is no seatbelt, it is actually quite safe: there are hand rests on the two sides, and the furthest you are away from the ground is around 5 meters.
 
 From here, you can see the panoramic glimpse of the sandbar.
 ### View
