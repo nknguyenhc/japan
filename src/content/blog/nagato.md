@@ -25,7 +25,7 @@ Tastewise, the sashimi is very good! The chewy texture of the squid mixed with w
 I also bought a yuzukichi drink from the same restaurant. It is similar to lemonade, but with a much stronger bitterness and sourness, though the tastes do not linger but disappear after the sip.
 
 ## Omi island
-I rented a bike from Yukute and cycled towards the eastern tip of Omi island, then back.
+I rented a bike from Yukute and cycled towards the eastern tip of Omi island, and backwards.
 ![Nagato photo](../../assets/nagato/nagato-4.jpg)
 ![Nagato photo](../../assets/nagato/nagato-5.jpg)
 
@@ -89,16 +89,16 @@ It is so beautiful! This is not the rice fields btw. The rice fields are … meh
 At this point, I realized that I could not bear even a small inclination anymore. So I figured out something.
 ![Nagato photo](../../assets/nagato/nagato-17.jpg)
 
-Strapping my bag to the bike! This great offload a heavy weight. However, my leg still could not make it for the uphills.
+Strapping my bag to the bike! This greatly offloaded a heavy weight. However, my leg still could not make it for the uphills.
 
 After a while, I realized that leaning forward makes the uphill climbs so much easier. Oh my foolish self, did I realize it too late? Idk, the cycling routes in Singapore are just too easy that I did not have to learn this trick.
 
 Ended up arriving back quite late. The sacrifices I made just to see this shrine:
 - Paid the fee for renting the bike full day because I arrived back past the 4-hour mark by half an hour.
 - Skipped lunch because I wanted to catch the bus out of Nagato early to arrive at Fukuoka for dinner.
-- Ended up catching a taxi because there was no public transport at noon time :(
+- Ended up catching a taxi from the bike-renting facility to hotel to pick up my luggage because there was no public transport at noon time :( The staff was very nice in helping me book a taxi, because neither Uber nor Go was available.
 
 It’s okay, small hiccups like this are unavoidable on a long trip.
 
 ## Concluding words
-Nagato has two beautiful places to see: Omi island and Motonosumi shrine. The weather did not allow me to see the full beauty of these two places. I would definitely recommend this place if you have time. Do note that transport in this city does not run at noon and at late night. Do estimate your cycling abilities properly, rent an electric bike if possible. Due to my poor decision, I missed out the fugu fish, or a good seafood donburi :) Do try them out too if you have time.
+Nagato has two beautiful places to see: Omi island and Motonosumi shrine. The weather did not allow me to see the full beauty of these two places. I would definitely recommend this place if you have time. Do note that transport in this city does not run at noon and after 7pm. Do estimate your cycling abilities properly, rent an electric bike if possible. Due to my poor decision making, I missed out the fugu fish, or a good seafood donburi :) Do try them out too if you have time.

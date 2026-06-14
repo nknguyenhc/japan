@@ -29,9 +29,9 @@ The fish is dipped in light soy sauce with sesame seeds and scallion. The flavou
 I had an all-you-can-eat yakiniku lunch here. Indeed, this mall has a lot of food options so I came back here often.
 ![Fukuoka photo](../../assets/fukuoka/fukuoka-6.jpg)
 
-The price is of course more competitive than those in Singapore. In Singapore, Shabu Sai has a relatively more competitive price and similar meat options, yet it is still more expensive than this.
+The price is of course more competitive than those in Singapore. Shabu Sai has a relatively competitive price in the Singapore market and similar meat options, yet it is still more expensive than this.
 ### Tonkotsu ramen
-I went back here for tonkotsu ramen after the unsatisfactory ramen at Yatai food stalls (found below, sorry my blog post is not in chronological order).
+I went back to this mall for tonkotsu ramen after the unsatisfactory ramen at Yatai food stalls (found below, sorry my blog post is not in chronological order).
 ![Fukuoka photo](../../assets/fukuoka/fukuoka-7.jpg)
 
 There is an entire ramen stadium on the fifth floor! The whole floor is filled with ramen of all kinds, all offering very competitive prices. I resolved to have good tonkotsu ramen here.
@@ -42,7 +42,7 @@ And indeed it is very good! The broth, the noodle, the egg, the meat, the mushro
 The next day, I set out for temples, since the weather forecast said it would rain this day and not rain the days after.
 ![Fukuoka photo](../../assets/fukuoka/fukuoka-9.jpg)
 
-There are a lot of statues within the compound leading to the statue. Not sure what these statues are, they don’t look like Buddha.
+There are a lot of small statues within the compound leading to the main reclining Buddha statue. Not sure what these statues are, they don’t look like Buddha.
 ![Fukuoka photo](../../assets/fukuoka/fukuoka-10.jpg)
 
 There is even a Shinto shrine within the temple.
@@ -97,7 +97,7 @@ The first underground level is quite extensive, with rows of bakeries and rows o
 Upon coming to the fourth level, I was surprised to see … buses running outside. No wonder it was an underground mall, the fourth level is only the street level.
 ![Fukuoka photo](../../assets/fukuoka/fukuoka-23.jpg)
 
-Enjoying the cake I bought by the street!
+Enjoying the cake I bought from the mall!
 ## Yatai food stalls
 The food stalls are located south of Nakasu island, which is an island right in the middle of Naka river in Fukuoka.
 ![Fukuoka photo](../../assets/fukuoka/fukuoka-24.jpg)

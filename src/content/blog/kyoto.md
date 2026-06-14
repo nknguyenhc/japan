@@ -24,7 +24,7 @@ After arriving at Nagoya, I took the Tokaido shinkansen for one stop to Kyoto.
 I decided to start light, going to where I have been before. This time, I managed to see some Geisha with heavy makeup walking around. However, they are rather hard to catch.
 ![Kyoto photo](../../assets/kyoto/kyoto-6.jpg)
 
-Exactly the same spot! Yasaka shrine lights up at night, giving itself a beautiful charm. This time, I decided to enter the shrine.
+Exactly the same spot as last time! Yasaka shrine lights up at night, giving itself a beautiful charm. This time, I decided to enter the shrine.
 ![Kyoto photo](../../assets/kyoto/kyoto-7.jpg)
 
 Beautiful lighting inside Yasaka shrine!
@@ -62,7 +62,7 @@ At the center of a palace is a beautiful garden with a pond.
 Last time when I was in Kyoto, we went to this bamboo forest at a later time in the day, so we couldn’t see much of the forest. This time I arrived earlier.
 ![Kyoto photo](../../assets/kyoto/kyoto-17.jpg)
 
-The afternoon sun pierces through the bamboo, illuminating the forest with a dim light. This makes the forest not too hot and not too dark, making it the perfect condition to walk through.
+The afternoon sun pierces through the bamboo, illuminating the forest with a dim light. This makes the forest not too hot and not too dark, creating the perfect condition to walk through.
 ![Kyoto photo](../../assets/kyoto/kyoto-18.jpg)
 ![Kyoto photo](../../assets/kyoto/kyoto-19.jpg)
 

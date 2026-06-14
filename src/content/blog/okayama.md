@@ -12,7 +12,7 @@ I did not manage to capture any photo of the beautiful view on the Hashidate tra
 
 ![Okayama photo](../../assets/okayama/okayama-2.jpg)
 
-The mystic view of the fog falling onto hill top, somewhere between Osaka and Okayama, taken on the shinkansen. The picture is a bit blurry because the shinkansen was moving fast.
+The mystic view of the fog falling onto hill top, somewhere between Osaka and Okayama, taken on the shinkansen. The picture is a bit blurry because the shinkansen was moving fast and this was cropped from a video.
 
 ## Arrive at Okayama
 I thought Okayama is a small town because there is nothing to see. It turns out that Okayama is quite a big and vibrant city.
@@ -43,7 +43,7 @@ This region is known for oysters. So I gotta try this dish.
 
 ![Okayama photo](../../assets/okayama/okayama-7.jpg)
 
-They brought out the cooked okonomiyaki, and I got to decorate it by myself with mayonnaise and the flakes. Don’t be deceived by the layer of soy sauce: it is actually not salty. The okonomiyaki is so tasty. Looking forward to enjoying this same dish in Hiroshima.
+They brought out a cooked okonomiyaki, and I got to decorate it by myself with mayonnaise and the flakes. Don’t be deceived by the layer of soy sauce: it is actually not salty. The okonomiyaki is so tasty. Looking forward to enjoying this same dish in Hiroshima.
 
 ### Fruit parfait
 Hearsay Okayama is a city of fruit parfaits, so I had to find one. The name doesn’t sound Japanese though :)

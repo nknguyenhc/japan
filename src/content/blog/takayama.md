@@ -46,7 +46,7 @@ The inside consists of a complex network of offices and exhibitions. Here you ca
 As well as a resting area with an amazing view looking out to a garden.
 ![Takayama photo](../../assets/takayama/takayama-12.jpg)
 
-Look at the meal that the Shogunate representative got to eat when he visited this place. This meal can easily be 3 meals, totalling up to 20,000 yen with the current pricing (my estimate btw).
+Look at the meal that the Shogunate representative got to eat when he visited this place. This meal can easily be split into 3 normal meals, totalling up to 20,000 yen with the current pricing (my estimate btw).
 ![Takayama photo](../../assets/takayama/takayama-13.jpg)
 
 Kudos to the kids that did this model of the building. This model was built by high school students in a technical school.
@@ -76,7 +76,7 @@ There are also milk-rich ice cream and Hida beef sticks sold at some stalls.
 The museum offers an array of displays of Takayama history, from economics to warfare, merchandise, fire fighting, etc. Some parts are not in English, so get your Google translate ready.
 ![Takayama photo](../../assets/takayama/takayama-21.jpg)
 
-These are some of the 4,000 statues crafted by Enku, a Buddhist monk. These statues are scattered throughout the country.
+These are some of the 4,000 statues crafted by Enku, a Buddhist monk. These statues were crafted as he travelled across the country.
 ![Takayama photo](../../assets/takayama/takayama-22.jpg)
 
 There are whole sections dedicated to Matsukura castle. The current castle is already in ruins and serves mostly as a hiking checkpoint near Hida village in Takayama.
@@ -110,7 +110,7 @@ The walking trail from the park is quite interesting though, but you should visi
 ## Miyagawa morning market
 ![Takayama photo](../../assets/takayama/takayama-29.jpg)
 
-Or rather, morning food tour. This market has a multitude of snacks that easily fills your stomach. An interesting observation is, except for Hida beef skewers, each of the dishes here is sold uniquely at one stall, so you don’t have to go around and compare the prices, rather, just buy the food that you want to eat.
+Or rather, morning food tour. This market has a myriad of snacks that easily fills your stomach. An interesting observation is, except for Hida beef skewers, each of the dishes here is sold uniquely at one stall, so you don’t have to go around and compare the prices, rather, just buy the food that you want to eat.
 ![Takayama photo](../../assets/takayama/takayama-30.jpg)
 
 The food here is so amazing! In order of the pictures,
